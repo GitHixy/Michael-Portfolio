@@ -91,7 +91,7 @@
   justify-content: center;
   height: 100vh;
   overflow: hidden;
-  background: rgba(142, 197, 185, 0.6784313725);
+  background: rgb(142, 197, 185);
   list-style-type: none;
   padding-right: 1rem;
   transform: translateY(-100%);
